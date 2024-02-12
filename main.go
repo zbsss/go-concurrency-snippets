@@ -6,4 +6,5 @@ func main() {
 	writeToChannelFromSelect()
 	timeout()
 	pipelineExample()
+	takeRepeatExample()
 }
